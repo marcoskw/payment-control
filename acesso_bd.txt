@@ -1,0 +1,7 @@
+postgres://jyrxxtyjbtbols:55f087c4ad33dd24cc63a0c3a7c6319583522254af4bf7ef681462ae7d694750@ec2-54-243-67-199.compute-1.amazonaws.com:5432/d33k31feu1qcdc
+
+user: jyrxxtyjbtbols
+password: 55f087c4ad33dd24cc63a0c3a7c6319583522254af4bf7ef681462ae7d694750
+server: ec2-54-243-67-199.compute-1.amazonaws.com
+port: 5432
+database: d33k31feu1qcdc
